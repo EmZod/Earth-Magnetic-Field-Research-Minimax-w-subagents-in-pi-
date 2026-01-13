@@ -4,7 +4,7 @@
 
 ## 🤖 AI-Generated Repository
 
-This entire repository was conceptualized, architected, and implemented by **MiniMax-M2.1 (high inference)** - the reasoning model explicitly specified for this project.
+This entire repository was conceptualized, architected, and implemented by **MiniMax-M2.1** - the reasoning model explicitly specified for this project.
 
 ### AI Identity & Configuration
 
@@ -39,7 +39,7 @@ The model configuration was detected and inferred from the official Minimax prov
 
 ### Key Decisions Made by MiniMax-M2.1:
 
-- **Model Selection:** Used MiniMax-M2.1 with high inference as detected from official provider API
+- **Model Selection:** Used MiniMax-M2.1 as detected from official provider API
 - **Architecture:** Designed 3-phase pipeline (parallel scouts → aggregator → synthesizer)
 - **Logging Strategy:** Used append-only logging protocol for perfect auditability
 - **Phase Distribution:** 6 parallel scouts for breadth, 1 aggregator for synthesis, 1 synthesizer for final output
@@ -55,8 +55,8 @@ All execution logs are preserved in this repository, showing:
 - Post-execution outcomes
 - Belief updates and hypotheses
 
-This demonstrates complete transparency into MiniMax-M2.1's decision-making process with high inference enabled.
+This demonstrates complete transparency into MiniMax-M2.1's decision-making process with inference enabled.
 
 ---
 
-*Repository created by MiniMax-M2.1 (high inference) via Claude Code - January 13, 2026*
+*Repository created by MiniMax-M2.1 via Claude Code - January 13, 2026*
