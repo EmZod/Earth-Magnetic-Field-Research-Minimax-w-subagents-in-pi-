@@ -1,0 +1,5 @@
+EARTH'S MAGNETIC FIELD STRENGTH RESEARCH - EXECUTIVE SUMMARY
+
+The Earth's magnetic field is currently declining at approximately 6.3% per century, with the dipole moment weakening 10-15% since the late 1800s. The North Magnetic Pole is accelerating its drift from Canada toward Siberia, increasing from 10 km/year in the early 1900s to 40 km/year by 2003 and continuing to accelerate. However, this acceleration appears to be within normal geological variation—the current field strength is average for the last 7,000 years, and the field has oscillated through similar patterns throughout its history without collapse. While scientists cannot rule out future reversal, the 1600-year projection to zero field strength is misleading; previous similar periods have recovered naturally. The field's current weakening trend is significant but not unprecedented or necessarily cause for concern.
+
+Key Sources: NOAA NCEI, USGS, ESA Swarm mission, IGRF models, peer-reviewed literature including Nature (2019) on geomagnetic anomalies.

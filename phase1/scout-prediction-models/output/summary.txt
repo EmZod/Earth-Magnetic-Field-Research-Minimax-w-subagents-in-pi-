@@ -1,0 +1,31 @@
+EARTH MAGNETIC FIELD PREDICTION MODELS - SUMMARY
+=================================================
+Scout: scout-prediction-models | Date: January 13, 2026
+
+MAJOR MODELS
+------------
+1. World Magnetic Model (WMM2025) - Navigation standard, updated Dec 2024
+2. International Geomagnetic Reference Field (IGRF-14) - Scientific reference, Nov 2024
+3. Enhanced Magnetic Model (EMM) - High-resolution crustal anomalies
+4. Geodynamo Simulations - Research only, not predictive
+
+KEY PREDICTIONS
+---------------
+- North pole: Moving ~55 km/year toward Russia (now at 85.76°N, 139.30°E)
+- Field strength: Declining ~5% per century (NOT indicating imminent reversal)
+- Reversals: CANNOT BE PREDICTED - statistically random, last was 780,000 years ago
+
+LIMITATIONS
+-----------
+- Reliable predictions: ~5 years maximum
+- 2019 required emergency model update due to unexpected pole acceleration
+- Long-term (50-100 year) predictions are NOT scientifically reliable
+- Core dynamics are chaotic - fundamental prediction limit
+
+BOTTOM LINE
+-----------
+Models work well for navigation/compass corrections over 5-year epochs but cannot 
+forecast long-term field behavior. A magnetic reversal could begin at any time or 
+not for millions of years - science cannot distinguish between these scenarios.
+
+See output/findings.md for detailed research and sources.

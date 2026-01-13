@@ -1,0 +1,45 @@
+EARTH'S MAGNETIC FIELD HISTORY - RESEARCH SUMMARY
+==================================================
+
+Research Scout: scout-historical-data
+Date: January 13, 2026
+
+KEY FINDINGS:
+-------------
+
+1. REVERSAL HISTORY
+   - Earth's magnetic field reverses frequently throughout geological history
+   - Last full reversal (Brunhes-Matuyama): 781,000 years ago
+   - Last major excursion (Laschamp): 42,000 years ago
+   - Reversal frequency varies; current polarity is unusually long
+
+2. LASCHAMP EVENT (42,000 years ago)
+   - Brief geomagnetic excursion with major environmental impacts
+   - Field strength dropped to 5% of current levels during transition
+   - Transition took ~250 years, reversal lasted ~440 years
+   - Caused increased cosmic radiation, ozone depletion, climate changes
+   - Linked to megafauna extinctions and Neanderthal disappearance
+
+3. CURRENT CHANGES - SOUTH ATLANTIC ANOMALY
+   - Region of significantly weakened magnetic field (26.6°S, 49°W)
+   - Has been expanding since first observed in 1958
+   - Field strength < 32,000 nanotesla (normal is ~50,000+ nanotesla)
+   - Increases radiation exposure for satellites and ISS
+   - Unusual on geological timescales (Middle Holocene was calm)
+
+4. HISTORICAL CONTEXT
+   - Current normal polarity period (781,000 years) is unusually long
+   - Field decay rate appears significant compared to paleomagnetic record
+   - Suggests we may be approaching another reversal
+
+5. IMPLICATIONS
+   - Reversals are natural but cause significant environmental effects
+   - Field weakness (not polarity) drives cosmic radiation increases
+   - Current changes may be unprecedented in recent geological history
+   - High uncertainty remains about reversal timing and effects
+
+SOURCES:
+- Wikipedia: Laschamp event, Brunhes-Matuyama reversal, South Atlantic Anomaly
+- Science: "A global environmental crisis 42,000 years ago" (Cooper et al., 2021)
+
+See output/findings.md for detailed analysis and complete references.
