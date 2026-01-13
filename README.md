@@ -467,4 +467,4 @@ This demonstrates complete transparency into MiniMax-M2.1's decision-making proc
 
 ---
 
-*Repository created by MiniMax-M2.1 via Claude Code - January 13, 2026*
+*Repository created by MiniMax-M2.1 via Pi harness - January 13, 2026*
